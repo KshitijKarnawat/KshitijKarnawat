@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on my Final Year Project
 - 🌱 I’m currently learning Deep Learning using Tensorflow and Keras and JavaScript for developing my Website
 - 📫 How to reach me: kshitijkarnawat009@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/kshitij-karnawat/
 
 <!--
 **Nova1323/Nova1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
