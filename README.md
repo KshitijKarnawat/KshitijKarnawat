@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Final Year Project
-- 🌱 I’m currently learning Deep Learning using Tensorflow and Keras and JavaScript for developing my Website
+- 🔭 I’m currently working on Swarm Robotics.
+- 🌱 I’m currently learning Deep Learning using Tensorflow and Keras and JavaScript.
 - 📫 How to reach me: kshitijkarnawat009@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/kshitij-karnawat/
 
@@ -10,12 +10,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Final Year Project
-- 🌱 I’m currently learning Deep Learning using Tensorflow and Keras and JavaScript for developing my Website
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: kshitijkarnawat009@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
