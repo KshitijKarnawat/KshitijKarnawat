@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Swarm Robotics.
-- 🌱 I’m currently learning Deep Learning using Tensorflow and Keras 
+- 🌱 I’m currently learning ROS
 - 📫 How to reach me: kshitijkarnawat009@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/kshitij-karnawat/
 
