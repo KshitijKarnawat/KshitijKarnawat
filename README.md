@@ -22,7 +22,7 @@
 
 [instagram]: https://www.instagram.com/kshitij_karnawat/
 [telegram]: https://t.me/Nova1323
-[linkedin]: https://linkedin.com/in/kshitij_karnawat
+[linkedin]: https://linkedin.com/in/kshitij-karnawat
 
 
 <!--
