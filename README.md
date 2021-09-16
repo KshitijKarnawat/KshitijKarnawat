@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Swarm Robotics.
+- 🔭 I’m currently working on Programming
 - 🌱 I’m currently learning ROS
 - 📫 How to reach me: kshitijkarnawat009@gmail.com
 
