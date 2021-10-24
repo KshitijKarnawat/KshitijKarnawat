@@ -29,9 +29,3 @@
 <a href="https://github.com/Nova1323/"><img src="https://img.shields.io/badge/GitHub-Kshitij%20Karnawat%20(Nova1323)-lightgrey?style=social&logo=github" /></a>
 <a href="mailto:kshitijkarnawat009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Kshitij%20Karnawat-red?style=social&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/kshitij-karnawat"><img src="https://img.shields.io/badge/LinkedIn-Kshitij%20Karnawat-blue?style=social&logo=linkedin" /></a>
-
-<h3 align="left">Profile Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nova1323&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" height="250" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nova1323&show_icons=true&locale=en" alt="profile-stats" height="125" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nova1323" alt="streak-stats" height="125" /></p>
