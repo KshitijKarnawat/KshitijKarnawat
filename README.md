@@ -4,11 +4,9 @@
   <img src="https://img.shields.io/github/followers/Nova1323?label=Followers&color=blueviolet&style=plastic" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nova1323&no-frame=true&column=7" alt="profile-trophy" /></a> </p>
-
 ### Hi there 👋
 
-- 🔭 I’m currently working on Programming
+- 🔭 I’m currently working on AprilTags
 - 🌱 I’m currently learning ROS
 - 📫 How to reach me: kshitijkarnawat009@gmail.com
 
@@ -32,7 +30,7 @@
 <a href="mailto:kshitijkarnawat009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Kshitij%20Karnawat-red?style=social&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/kshitij-karnawat"><img src="https://img.shields.io/badge/LinkedIn-Kshitij%20Karnawat-blue?style=social&logo=linkedin" /></a>
 
-### Profile Stats:
+<h3 align="left">Profile Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nova1323&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" height="250" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nova1323&show_icons=true&locale=en" alt="profile-stats" height="125" /></p>
