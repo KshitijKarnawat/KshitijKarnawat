@@ -6,9 +6,8 @@
 
 ### [Hello there 👋](https://youtu.be/rEq1Z0bjdwc?t=7)
 
-- 🔭 I’m currently working on AprilTags
-- 🌱 I’m currently learning ROS
-- 📫 How to reach me: kshitijkarnawat009@gmail.com
+- 🔭 Learning Image Processing and Computer Vision
+- 🌱 Electronics and Telecommunications Engineer (Bachelors in Engineering 2021)
 
 ### Languages and Frameworks
 
