@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/followers/Nova1323?label=Followers&color=blueviolet&style=plastic" />
 </p>
 
-### [Hello there 👋](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
+### [Hello there 👋](https://youtu.be/rEq1Z0bjdwc?t=7)
 
 - 🔭 I’m currently working on AprilTags
 - 🌱 I’m currently learning ROS
