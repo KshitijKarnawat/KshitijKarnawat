@@ -32,6 +32,6 @@
 
 ### Connect with me
 
-<a href="https://github.com/Nova1323/"><img src="https://img.shields.io/badge/GitHub-Kshitij%20Karnawat%20(Nova1323)-lightgrey?style=social&logo=github" /></a>
+<a href="https://github.com/KshitijKarnawat/"><img src="https://img.shields.io/badge/GitHub-Kshitij%20Karnawat%20(Nova1323)-lightgrey?style=social&logo=github" /></a>
 <a href="mailto:kshitijkarnawat009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Kshitij%20Karnawat-red?style=social&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/kshitij-karnawat"><img src="https://img.shields.io/badge/LinkedIn-Kshitij%20Karnawat-blue?style=social&logo=linkedin" /></a>
