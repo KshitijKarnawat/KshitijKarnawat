@@ -6,8 +6,9 @@
 
 ### [Hello there 👋](https://youtu.be/rEq1Z0bjdwc?t=7)
 
-- 🔭 Learning Image Processing and Computer Vision
-- 🌱 Electronics and Telecommunications Engineer (Bachelors in Engineering 2021)
+- Learning Image Processing and Computer Vision
+- Electronics and Telecommunications Engineer (Bachelors in Engineering 2021)
+- Pursing Masters in Robotics from University of Maryland (Masters in Engineering 2024)
 
 ### My Technology Stack
 
