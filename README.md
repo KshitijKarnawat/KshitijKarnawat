@@ -1,7 +1,7 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Nova1323&label=Views&color=brightgreen&style=plastic" alt="Nova1323" />
-  <img src="https://img.shields.io/github/stars/Nova1323?label=Stars&color=blue&style=plastic" />
-  <img src="https://img.shields.io/github/followers/Nova1323?label=Followers&color=blueviolet&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=KshitijKarnawat&label=Views&color=brightgreen&style=plastic" alt="KshitijKarnawat" />
+  <img src="https://img.shields.io/github/stars/KshitijKarnawat?label=Stars&color=blue&style=plastic" />
+  <img src="https://img.shields.io/github/followers/KshitijKarnawat?label=Followers&color=blueviolet&style=plastic" />
 </p>
 
 ### [Hello there 👋](https://youtu.be/rEq1Z0bjdwc?t=7)
@@ -32,6 +32,6 @@
 
 ### Connect with me
 
-<a href="https://github.com/KshitijKarnawat/"><img src="https://img.shields.io/badge/GitHub-Kshitij%20Karnawat%20(Nova1323)-lightgrey?style=social&logo=github" /></a>
+<a href="https://github.com/KshitijKarnawat/"><img src="https://img.shields.io/badge/GitHub-Kshitij%20Karnawat%-lightgrey?style=social&logo=github" /></a>
 <a href="mailto:kshitijkarnawat009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Kshitij%20Karnawat-red?style=social&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/kshitij-karnawat"><img src="https://img.shields.io/badge/LinkedIn-Kshitij%20Karnawat-blue?style=social&logo=linkedin" /></a>
