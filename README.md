@@ -6,11 +6,11 @@
 
 ### [Hello there 👋](https://youtu.be/rEq1Z0bjdwc?t=7)
 
-- Learning Image Processing and Computer Vision
 - Electronics and Telecommunications Engineer (Bachelors in Engineering 2021)
 - Pursing Masters in Robotics from University of Maryland (Masters in Engineering 2024)
+- Currently learning Software Development using C++ | Path Planning and Navigation | Perception
 
-### My Technology Stack
+## My Technology Stack
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -30,8 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=KshitijKarnawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KshitijKarnawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Connect with me
+
+## Connect with me
 
 <a href="https://github.com/KshitijKarnawat/"><img src="https://img.shields.io/badge/GitHub-Kshitij%20Karnawat-lightgrey?style=social&logo=github" /></a>
 <a href="mailto:kshitijkarnawat009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Kshitij%20Karnawat-red?style=social&logo=gmail" /></a>
