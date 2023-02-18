@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=KshitijKarnawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KshitijKarnawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
